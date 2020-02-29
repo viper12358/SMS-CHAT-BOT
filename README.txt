@@ -1,3 +1,7 @@
+# VOICE COMMUNICATION SYSTEM - SMS CHAT BOT
+
+Created during University of Calgary Hackathon 2020
+
 Using Twilio(Communication API) we have created a SMS chat box,and a voice Communication system.
 
 NUMBER: 1(510) 822-6787
