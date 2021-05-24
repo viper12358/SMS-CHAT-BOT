@@ -1,8 +1,8 @@
 import praw
 import random
 
-reddit = praw.Reddit(client_id = "bXY6OO4j5MqsAQ",
-                        client_secret = "u4Sryj0DkVKy2qSTf3ZUurOOQiE",
+reddit = praw.Reddit(client_id = "" # get your own,
+                        client_secret = "" # get your own,
                         user_agent = "<Firefox/Chrome><TwilloAPI>:<University of Calgary Hackathon 2020> (by /u/viper_12358")
 
 # keyword: quote.lowercase(), motivational,
